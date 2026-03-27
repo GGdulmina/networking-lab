@@ -22,3 +22,12 @@ nmap 192.168.x.1/24
 
 ## Note
 This scan was performed only on my own local network.
+
+# Nmap Scan - Basic Network Discovery 🖥️
+
+## Objective
+Scan my local network to identify active devices and open ports.
+
+## Command Used
+```bash
+nmap 192.168.x.x/25
