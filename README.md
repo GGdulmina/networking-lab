@@ -16,3 +16,7 @@ A hands-on networking and cybersecurity lab where I document my learning.
 
 ## Goal
 To build strong fundamentals in networking and cybersecurity through practical work.
+
+## Projects
+- SSH Setup (Termux to PC)
+- Nmap Network Scan
