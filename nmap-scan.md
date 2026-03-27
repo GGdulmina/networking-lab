@@ -1,0 +1,24 @@
+# Nmap Scan - Basic Network Discovery
+
+## Objective
+Scan my local network to identify active devices and open ports.
+
+## Command Used
+nmap 192.168.x.1/24
+
+## What this does
+- Scans all devices in the local network
+- Shows which devices are active
+- Displays open ports
+
+## Sample Result (example)
+- 192.168.x.1 → Router
+- 192.168.x.15 → My PC
+
+## What I learned
+- What an IP range is
+- How devices are discovered on a network
+- Basics of open/closed ports
+
+## Note
+This scan was performed only on my own local network.
