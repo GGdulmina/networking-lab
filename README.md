@@ -1,7 +1,10 @@
-# Networking Lab
+# Networking Lab 🔐
+
+## Tools
+Linux | SSH | Nmap | Termux
 
 ## What this is
-A hands-on networking and cybersecurity lab where I document my learning.
+A hands-on networking and cybersecurity lab documenting my learning journey.
 
 ## What I’ve done
 - Setup SSH connection
