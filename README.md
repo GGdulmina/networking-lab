@@ -1,5 +1,7 @@
 # Networking Lab 🔐
 
+![Learning](https://img.shields.io/badge/Learning-Networking%20%26%20Cybersecurity-blue) ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
 ## Tools
 Linux | SSH | Nmap | Termux
 
