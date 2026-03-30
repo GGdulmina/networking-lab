@@ -4,7 +4,7 @@
 Scan my local network to identify active devices and open ports.
 
 ## Command Used
-nmap 192.168.x.1/2
+nmap 192.168.x.x/25
 
 ## What this does
 - Scans all devices in the local network
