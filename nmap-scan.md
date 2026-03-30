@@ -35,4 +35,4 @@ nmap 192.168.x.x/25
 ![Nmap1](nmap-screenshot01.png)
 ![Nmap2](nmap-screenshot02.png)
 
-*Screenshot shows a successful SSH connection from Termux to PC.*
+*Screenshot shows a successful network mapping using a TCP SYN (Stealth) scan. The scan identifies service versions and performs OS detection using aggressive timing (-T4), filtering the output to display only open ports.*
