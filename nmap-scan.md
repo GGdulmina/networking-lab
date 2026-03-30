@@ -30,3 +30,9 @@ Scan my local network to identify active devices and open ports.
 
 ## Command Used
 nmap 192.168.x.x/25
+
+## Screenshot
+![Nmap1](nmap-screenshot01.png)
+![Nmap2](nmap-screenshot02.png)
+
+*Screenshot shows a successful SSH connection from Termux to PC.*
