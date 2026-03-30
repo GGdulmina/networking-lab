@@ -23,6 +23,6 @@ Started SSH service and retried.
 - Basic client-server communication
 
 ## Screenshot
-![SSH Connection](ssh-connection.jpg)
+![SSH Connection](ssh-screenshot.jpg)
 
 *Screenshot shows a successful SSH connection from Termux to PC.*
