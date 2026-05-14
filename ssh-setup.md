@@ -23,7 +23,7 @@ Started SSH service and retried.
 - Basic client-server communication
 
 ## Screenshot
-![SSH Connection](ssh-screenshot.jpg)
+![SSH Connection](assets/ssh-screenshot.jpg)
 
 *Screenshot shows a successful SSH connection from PC to Termux.*
 
@@ -40,16 +40,16 @@ Connect from my Linux PC to my Android device running Termux using SSH.
 5. Connected from Linux PC: `ssh -p 8022 u0_a228@192.168.x.x`
 
 ## Screenshot
-![Android SSH Server Connection](termux-ssh-server.jpg) 
+![Android SSH Server Connection](assets/termux-ssh-server.jpg) 
 
 *Screenshot shows android mobile name and ifconfig to get smart phone ip address.*
 
 ## Screenshot
-![Android SSH Server Connection](linux-connected-to-android0.1.png) 
+![Android SSH Server Connection](assets/linux-connected-to-android0.1.png) 
 
 *Screenshot shows how I connected to my Android server via Linux terminal.*
 
 ## Screenshot
-![Android SSH Server Connection](linux-connected-to-android0.2.png) 
+![Android SSH Server Connection](assets/linux-connected-to-android0.2.png) 
 
 *Screenshot shows a successful SSH connection from Termux to PC.*
