@@ -32,7 +32,7 @@ Scan my local network to identify active devices and open ports.
 nmap 192.168.x.x/25
 
 ## Screenshot
-![Nmap1](nmap-screenshot01.png)
-![Nmap2](nmap-screenshot02.png)
+![Nmap1](assets/nmap-screenshot01.png)
+![Nmap2](assets/nmap-screenshot02.png)
 
 *Screenshot shows a successful network mapping using a TCP SYN (Stealth) scan. The scan identifies service versions and performs OS detection using aggressive timing (-T4), filtering the output to display only open ports.*
